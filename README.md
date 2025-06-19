@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **utkarshd9990@gmail.com**
+- 📫 How to reach me <a href = " utkarshd9990@gmail.com"> Email </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

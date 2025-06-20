@@ -50,7 +50,7 @@
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/UtkarshD9990?theme=dark&font=baloo&ext=contest&border=false&hide_rank=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dubey9990?theme=dark&font=baloo&ext=contest&border=false&hide_rank=true)
 
 ---
 

@@ -14,10 +14,10 @@
 
 ### 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -43,15 +43,22 @@
 
 ### 📊 GitHub Stats
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshDubeyGIT&show_icons=true&theme=tokyonight)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshDubeyGIT&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDubeyGIT&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/UtkarshD9990?theme=dark&font=baloo&ext=contest&border=false&hide_rank=true)
 
 ---
 
 ### 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-dubey-25595728a/?jobid=1234)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UtkarshD9990)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-dubey-25595728a/?jobid=1234)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UtkarshD9990)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/UtkarshD9990/)
 
 ---
 

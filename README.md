@@ -34,11 +34,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**Reelspro**](https://github.com/UtkarshDubeyGIT/Reelspro) | A modern short-form video sharing app with secure auth, uploads & Tailwind UI | `Next.js`, `TypeScript`, `Tailwind CSS`, `MongoDB` |
 | [**NextGenAI Lab**](https://github.com/UtkarshDubeyGIT/nextgenlab) | Research lab showcase site with animated, responsive design and interactive UI | `Next.js`, `React 19`, `Tailwind CSS` |
 | [**Laptop Price Predictor**]((https://github.com/UtkarshDubeyGIT/Laptop-Price-Predictor-ML-course-project-02)) | Predicts laptop prices using ML models and Streamlit frontend | `Python`, `Streamlit`, `pandas`, `matplotlib` |
-| [**Plagiarism Checker (ML)**](https://github.com/UtkarshDubeyGIT/Plagiarism-Checker-ML-Model) | Flask API for AI-generated text & plagiarism detection using NLP | `Flask`, `sklearn`, `NLP`, `Jupyter` |
-| [**NSS Website**](https://github.com/UtkarshDubeyGIT/NSS-Website-02) | Responsive site for NSS NSUT with animations and scroll effects | `HTML`, `Tailwind CSS`, `JavaScript` |
+| [**Research Paper : Fuzzy Monotonic LightGBM for Explainable Credit Default Prediction**](https://github.com/UtkarshDubeyGIT/Fuzzy-Monotonic-LightGBM-for-Explainable-Credit-Default-Prediction/tree/main) | Hybrid fuzzy-monotonic LightGBM framework for transparent, regulator-friendly credit default prediction. Combines linguistic fuzzy rules, economic monotonic constraints, and boosted models to deliver calibrated, explainable, high-performance credit-risk scoring. | `Python`, `Jupyter Notebook`, `Pandas`, `Matplotlib` |
 
 ---
 

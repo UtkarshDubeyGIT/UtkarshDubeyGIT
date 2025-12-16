@@ -7,7 +7,7 @@
 🌱 Always learning — currently exploring **Web Performance**, **CI/CD**, and **Design Systems**  
 💬 Ask me about **React, Node.js, MongoDB, TypeScript, and Tailwind CSS**  
 📫 Reach me: [utkarshd9990@gmail.com](mailto:utkarshd9990@gmail.com)  
-🌐 Portfolio: Dubey.tech
+🌐 Portfolio: [Dubey.tech](dubey.tech)
 📄 Know more: [Resume (LinkedIn)](https://www.linkedin.com/in/utkarsh-dubey-25595728a/?jobid=1234)
 
 ---

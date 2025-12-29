@@ -35,7 +35,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [**NextGenAI Lab**](https://github.com/UtkarshDubeyGIT/nextgenlab) | Research lab showcase site with animated, responsive design and interactive UI | `Next.js`, `React 19`, `Tailwind CSS` |
-| [**Laptop Price Predictor**]((https://github.com/UtkarshDubeyGIT/Laptop-Price-Predictor-ML-course-project-02)) | Predicts laptop prices using ML models and Streamlit frontend | `Python`, `Streamlit`, `pandas`, `matplotlib` |
+| [**Laptop Price Predictor**](https://github.com/UtkarshDubeyGIT/Laptop-Price-Predictor-ML-course-project-02) | Predicts laptop prices using ML models and Streamlit frontend | `Python`, `Streamlit`, `pandas`, `matplotlib` |
 | [**Research Paper : Fuzzy Monotonic LightGBM for Explainable Credit Default Prediction**](https://github.com/UtkarshDubeyGIT/Fuzzy-Monotonic-LightGBM-for-Explainable-Credit-Default-Prediction/tree/main) | Hybrid fuzzy-monotonic LightGBM framework for transparent, regulator-friendly credit default prediction. Combines linguistic fuzzy rules, economic monotonic constraints, and boosted models to deliver calibrated, explainable, high-performance credit-risk scoring. | `Python`, `Jupyter Notebook`, `Pandas`, `Matplotlib` |
 
 ---

@@ -4,7 +4,11 @@
 
 <p align="center">
 Always learning, and iterating on myself as a developer.
+</p>
+<p align="center">
 I like building software that is usable and can provide meaningful experience to the user.
+</p>
+<p align="center">
 Always busy cooking some great ideas 🔥
 </p>
 

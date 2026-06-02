@@ -3,7 +3,9 @@
 <h3 align="center">Full Stack Developer • AI Builder • Systems Thinker</h3>
 
 <p align="center">
-Building scalable web platforms, AI-powered products, and developer-first experiences.
+Always learning, and iterating on myself as a developer.
+I like building software that is usable and can provide meaningful experience to the user.
+Always busy cooking some great ideas 🔥
 </p>
 
 ---

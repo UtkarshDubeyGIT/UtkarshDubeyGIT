@@ -4,15 +4,12 @@
 
 ### Software Developer · AI Builder · Product Engineer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+products+that+survive+production;Giving+AI+agents+tools%2C+memory%2C+and+personality;Turning+weekend+ideas+into+things+people+can+use;Build.+Learn.+Capture." alt="Animated introduction" />
-</a>
+<img src="./assets/terminal-banner.svg" width="850" alt="Animated terminal banner introducing Utkarsh" />
 
 <p>
   <a href="https://dubey.tech"><img src="https://img.shields.io/badge/Portfolio-dubey.tech-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/utkarsh-dubey-25595728a/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/utkarsh-dubey-25595728a/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/UtkarshD9990"><img src="https://img.shields.io/badge/X-Follow_the_build-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=UtkarshDubeyGIT&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -83,11 +80,7 @@ AI agents · backend architecture · developer tools · observability · product
 ## 🕹️ The last 365 days
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=UtkarshDubeyGIT&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Total contributions, current streak, and longest streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshDubeyGIT&theme=github_dark" alt="GitHub contribution summary" />
+  <img src="https://raw.githubusercontent.com/UtkarshDubeyGIT/UtkarshDubeyGIT/output/contribution-stats.svg" width="760" alt="Contribution total, streaks, active days, and contribution grid for the last 365 days" />
 </div>
 
 ### `pacman --eat-contributions`
@@ -97,6 +90,8 @@ AI agents · backend architecture · developer tools · observability · product
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UtkarshDubeyGIT/UtkarshDubeyGIT/output/pacman-contribution-graph.svg" />
   <img alt="Pac-Man eating Utkarsh's GitHub contributions" src="https://raw.githubusercontent.com/UtkarshDubeyGIT/UtkarshDubeyGIT/output/pacman-contribution-graph.svg" />
 </picture>
+
+<!-- Both graphics above are rebuilt daily by .github/workflows/profile-graphics.yml. -->
 
 ## 🧰 Inventory
 

@@ -1,12 +1,15 @@
-name: Generate arcade contribution graph
+name: Generate profile graphics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/profile-graphics.yml"
+      - "scripts/generate-contribution-stats.mjs"
 
 jobs:
   generate:
@@ -16,13 +19,22 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
 
-      - name: Publish generated SVGs
+      - name: Generate native contribution statistics
+        run: node scripts/generate-contribution-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+
+      - name: Publish generated graphics
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

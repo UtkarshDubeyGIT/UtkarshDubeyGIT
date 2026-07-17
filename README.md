@@ -1,6 +1,6 @@
 <div align="center">
 
-# `UTKARSH DUBEY.exe`
+# `UTKARSH DUBEY`
 
 ### Software Developer · AI Builder · Product Engineer
 

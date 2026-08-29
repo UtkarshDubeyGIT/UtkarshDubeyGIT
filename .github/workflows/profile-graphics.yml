@@ -1,4 +1,4 @@
-name: Generate profile graphics
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
@@ -9,7 +9,6 @@ on:
       - main
     paths:
       - ".github/workflows/profile-graphics.yml"
-      - "scripts/generate-contribution-stats.mjs"
 
 jobs:
   generate:
@@ -28,13 +27,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
 
-      - name: Generate native contribution statistics
-        run: node scripts/generate-contribution-stats.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-
-      - name: Publish generated graphics
+      - name: Publish generated graphic
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
